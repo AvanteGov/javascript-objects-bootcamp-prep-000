@@ -1,1 +1,1 @@
-var playlist = newObject({key: value})
+var playlist = {};
